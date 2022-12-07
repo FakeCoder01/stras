@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/stras/static/css/main.073227f7.css",
+    "main.js": "/stras/static/js/main.54873427.js",
+    "static/js/787.05bfec4f.chunk.js": "/stras/static/js/787.05bfec4f.chunk.js",
+    "index.html": "/stras/index.html",
+    "main.073227f7.css.map": "/stras/static/css/main.073227f7.css.map",
+    "main.54873427.js.map": "/stras/static/js/main.54873427.js.map",
+    "787.05bfec4f.chunk.js.map": "/stras/static/js/787.05bfec4f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073227f7.css",
+    "static/js/main.54873427.js"
+  ]
+}
